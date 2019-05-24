@@ -1,0 +1,22 @@
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.deps.json
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.runtimeconfig.json
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.runtimeconfig.dev.json
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.dll
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.csprojAssemblyReference.cache
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.csproj.CoreCompileInputs.cache
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.AssemblyInfoInputs.cache
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.AssemblyInfo.cs
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.pdb
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.dll
+C:/Users/isaacn/source/repos/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.pdb
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.deps.json
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.runtimeconfig.json
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.runtimeconfig.dev.json
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.dll
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/bin/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.pdb
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.csprojAssemblyReference.cache
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.csproj.CoreCompileInputs.cache
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.AssemblyInfoInputs.cache
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.AssemblyInfo.cs
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.dll
+/Users/yitzchok/Documents/GitSources/ef core relationship test/EFCoreDisconnectedEntitiesTest/obj/Debug/netcoreapp2.1/EFCoreDisconnectedEntitiesTest.pdb
